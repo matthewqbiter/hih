@@ -1,2 +1,2 @@
-"hello world" (print)
-prit ("hello")
+print("hello world")
+print("hello")
